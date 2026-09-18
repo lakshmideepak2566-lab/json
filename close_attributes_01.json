@@ -1,0 +1,253 @@
+[
+  {
+    "issue_key": "STPI-16801",
+    "Issue ID": "7035250",
+    "Issue Type": "Request",
+    "Status": "Closed",
+    "Project": "Stratus Partner Inbox",
+    "Priority": "High",
+    "Resolution": "Done",
+    "Creator": "garrett.bond@hp.com",
+    "Created": "2024-11-08T17:49:11.000+0000",
+    "Updated": "2026-06-05T10:43:11.000+0000",
+    "Fix Versions": [],
+    "Scrum Team": "*",
+    "Severity": "2 High",
+    "Reproducibility": "",
+    "Applicable Products": [
+      "3Ms: Manhattan VRn"
+    ],
+    "Stack Environment1": [
+      "Prod"
+    ],
+    "Encountered By": "HSV",
+    "Epic Link": "",
+    "Story Points": "",
+    "Sprint": "",
+    "Completed Sprints": "",
+    "Labels": [],
+    "Assignee": "prashanth.nilogal@hp.com",
+    "Reporter": "garrett.bond@hp.com",
+    "Issue Category": "",
+    "Issue Links": [
+      {
+        "type": "Cloners",
+        "inward": "",
+        "outward": "DOSDP-66792"
+      },
+      {
+        "type": "Cloners",
+        "inward": "SRFWBUG-20913",
+        "outward": ""
+      },
+      {
+        "type": "Cloners",
+        "inward": "STPI-17240",
+        "outward": ""
+      },
+      {
+        "type": "Connects",
+        "inward": "",
+        "outward": "TRASH-190952"
+      },
+      {
+        "type": "Connects",
+        "inward": "",
+        "outward": "CDMP-7072"
+      },
+      {
+        "type": "Connects",
+        "inward": "",
+        "outward": "CDMP-7120"
+      },
+      {
+        "type": "Connects",
+        "inward": "",
+        "outward": "CDMP-7340"
+      },
+      {
+        "type": "Connects",
+        "inward": "",
+        "outward": "CLDCON-26111"
+      },
+      {
+        "type": "Connects",
+        "inward": "",
+        "outward": "APPWIN-3761"
+      },
+      {
+        "type": "Connects",
+        "inward": "",
+        "outward": "STPI-16871"
+      },
+      {
+        "type": "Connects",
+        "inward": "",
+        "outward": "APPWIN-3754"
+      },
+      {
+        "type": "Connects",
+        "inward": "",
+        "outward": "APPWIN-3755"
+      },
+      {
+        "type": "Connects",
+        "inward": "",
+        "outward": "APPWIN-3757"
+      },
+      {
+        "type": "Connects",
+        "inward": "",
+        "outward": "APPWIN-3758"
+      },
+      {
+        "type": "Connects",
+        "inward": "",
+        "outward": "APPWIN-3759"
+      },
+      {
+        "type": "Defect",
+        "inward": "PSPDE-16063",
+        "outward": ""
+      },
+      {
+        "type": "Defect",
+        "inward": "PSPDE-16408",
+        "outward": ""
+      }
+    ]
+  },
+  {
+    "issue_key": "SRFWBUG-22823",
+    "Issue ID": "9554757",
+    "Issue Type": "Bug",
+    "Status": "Closed",
+    "Project": "Sirius FW Bugs",
+    "Priority": "High",
+    "Resolution": "Done",
+    "Creator": "shivakumar.kukamalli@hp.com",
+    "Created": "2026-05-25T09:09:12.000+0000",
+    "Updated": "2026-09-10T23:21:53.000+0000",
+    "Fix Versions": [
+      "SiriusInk Q426 Manhattan Non Yeti VR 2.17",
+      "SiriusInk Q426 Manhattan Yeti VR 5.17",
+      "SiriusInk Q426 Malbec Non Yeti VR 1.19",
+      "SiriusInk Q426 Malbec Yeti VR 5.17"
+    ],
+    "Scrum Team": "Data Quality",
+    "Severity": "3 Medium",
+    "Reproducibility": "",
+    "Applicable Products": [
+      ".N/A",
+      "3Ms: Malbec Plus VR5.0.0",
+      "3Ms: Malbec VR5.0.0",
+      "3Ms: Manhattan Hi VR2.0.0"
+    ],
+    "Stack Environment1": "",
+    "Encountered By": "DataOS",
+    "Epic Link": "",
+    "Story Points": "",
+    "Sprint": "",
+    "Completed Sprints": "",
+    "Labels": [],
+    "Assignee": "jose-daniel.garcia-carrillo@hp.com",
+    "Reporter": "shivakumar.kukamalli@hp.com",
+    "Issue Category": "",
+    "Issue Links": [
+      {
+        "type": "Blocks",
+        "inward": "DATAPLAT-3586",
+        "outward": ""
+      },
+      {
+        "type": "Blocks",
+        "inward": "DATAPLAT-3056",
+        "outward": ""
+      },
+      {
+        "type": "Cloners",
+        "inward": "",
+        "outward": "DATAPLAT-3056"
+      },
+      {
+        "type": "Cloners",
+        "inward": "FIRM-33900",
+        "outward": ""
+      }
+    ]
+  },
+  {
+    "issue_key": "SRFWBUG-22782",
+    "Issue ID": "9472685",
+    "Issue Type": "Bug",
+    "Status": "Closed",
+    "Project": "Sirius FW Bugs",
+    "Priority": "High",
+    "Resolution": "Done",
+    "Creator": "shivakumar.kukamalli@hp.com",
+    "Created": "2026-05-06T14:15:03.000+0000",
+    "Updated": "2026-07-29T05:31:01.000+0000",
+    "Fix Versions": [],
+    "Scrum Team": "Data Quality",
+    "Severity": "2 High",
+    "Reproducibility": "",
+    "Applicable Products": [
+      ".N/A"
+    ],
+    "Stack Environment1": [
+      "Stage",
+      "Prod"
+    ],
+    "Encountered By": "",
+    "Epic Link": "DATAPLAT-3244",
+    "Story Points": "",
+    "Sprint": "",
+    "Completed Sprints": "",
+    "Labels": [],
+    "Assignee": "lawrence.joseph@hp.com",
+    "Reporter": "shivakumar.kukamalli@hp.com",
+    "Issue Category": "",
+    "Issue Links": [
+      {
+        "type": "Blocks",
+        "inward": "DATAPLAT-4409",
+        "outward": ""
+      },
+      {
+        "type": "Blocks",
+        "inward": "DATAPLAT-3361",
+        "outward": ""
+      },
+      {
+        "type": "Blocks",
+        "inward": "LOWINKFW-15205",
+        "outward": ""
+      },
+      {
+        "type": "Blocks",
+        "inward": "LOWINKFW-15368",
+        "outward": ""
+      },
+      {
+        "type": "Cloners",
+        "inward": "",
+        "outward": "DATAPLAT-2553"
+      },
+      {
+        "type": "Cloners",
+        "inward": "DATAPLAT-2553",
+        "outward": ""
+      },
+      {
+        "type": "Defect",
+        "inward": "DATAPLAT-2430",
+        "outward": ""
+      },
+      {
+        "type": "Defect",
+        "inward": "DATAPLAT-2647",
+        "outward": ""
+      }
+    ]
+  }
+]
